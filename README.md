@@ -14,7 +14,7 @@
     By Jose Luis Blas Ralde
 
 It is my first Linux project It was created on 2011 for learning purposes 
-my goals was (by doing):
+my goals were :
 
 * Learn how to linux works
 * how to build a distro
