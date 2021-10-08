@@ -5,8 +5,11 @@
     /_____/_/   \___/\__,_/_/ /_/ /_/\____/
     By Jose Luis Blas Ralde
 
+<p align="center">
+  <img src="logo.png">
+</p>
+
 ## What is DreamJ?
-![](logo.png)
 
 It is my first Linux project It was created on 2011 for learning purposes 
 my goals are (by doing):
@@ -74,6 +77,6 @@ there are 2 versions [here on sourceforge](https://sourceforge.net/projects/d-pr
 
 * Zenmap, Etthercap, Wireshark
 
-![](screenshots/screen4.png
+![](screenshots/screen4.png)
 
 check the "screenshots" dir for more screenshots                               
