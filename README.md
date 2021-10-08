@@ -44,7 +44,7 @@ and many more!!! this the /pentest directory
 
 ![](diagrm.png)
 
-the complete list is [here](tools.html)
+the complete list is [here](tools.htm)
 
 and the welcome message is [here](ayuda.html) in spanish
 
