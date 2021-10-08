@@ -1,15 +1,17 @@
-        ____                                __
-       / __ \________  ____ _____ ___      / /
-      / / / / ___/ _ \/ __ `/ __ `__ \__  / / 
-     / /_/ / /  /  __/ /_/ / / / / / / /_/ /  
-    /_____/_/   \___/\__,_/_/ /_/ /_/\____/
-    By Jose Luis Blas Ralde
+
 
 <p align="center">
   <img src="logo.png">
 </p>
 
 ## What is DreamJ?
+
+        ____                                __
+       / __ \________  ____ _____ ___      / /
+      / / / / ___/ _ \/ __ `/ __ `__ \__  / / 
+     / /_/ / /  /  __/ /_/ / / / / / / /_/ /  
+    /_____/_/   \___/\__,_/_/ /_/ /_/\____/
+    By Jose Luis Blas Ralde
 
 It is my first Linux project It was created on 2011 for learning purposes 
 my goals are (by doing):
@@ -30,7 +32,7 @@ my goals are (by doing):
 
 SUMARY: Is a minimal pentesting distro based in [Damn Small Linux 4.4.10](http://www.damnsmalllinux.org/). I really learned a lot doing this distribution.
 
-## what does it contains?
+## What does it contains?
 It contains 283 tools, and some most popular pentesting/hacking tools from 2011!!!
 
 * Metasploit
